@@ -1,0 +1,6 @@
+framework module Pods_ETSpeech_Example {
+  umbrella header "Pods-ETSpeech_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

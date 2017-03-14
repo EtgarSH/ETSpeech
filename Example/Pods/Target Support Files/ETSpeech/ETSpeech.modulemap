@@ -1,0 +1,6 @@
+framework module ETSpeech {
+  umbrella header "ETSpeech-umbrella.h"
+
+  export *
+  module * { export * }
+}
